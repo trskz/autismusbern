@@ -1,2 +1,2 @@
 # autismusbern
-Website for autismusbern.ch
+Website for autismusbern.ch *now defunct*
